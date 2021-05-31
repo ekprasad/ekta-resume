@@ -1,0 +1,60 @@
+.outer{
+    height: 800px;
+    width: 700px;
+    margin:0px auto;
+}
+#myHeader{
+    font-family: Cambria;
+    font-size: 18;
+    color:rgb(8, 19, 70);
+    padding: 0px;
+    margin: 0px;
+}
+table.myTable{
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-size: 11px;
+    font-family: Cambria;
+    font-weight: bold;
+    font-style: italic;
+    
+}
+tr, th, td
+{
+    border: 1px solid black;
+    border-collapse: collapse;
+     padding: 15px ;
+     
+     
+ }
+  
+    th{
+        color: cornflowerblue;
+        text-align: left;
+    }
+    #myHeader1{
+        font-family: Calibri;
+        font-size: 16;
+        color:rgb(8, 19, 70);
+    }
+    #exp{
+        font-family: Calibri;
+        font-size: 16;
+
+    }
+    .list ul{
+        line-height: 2.5em;
+        list-style-type:none;
+        padding-left: 0.5mm;
+    }
+   table.itTable{
+        border-style: hidden;
+        border-collapse: collapse;
+        font-size: 12px;
+        font-family: Calibri;
+    }
+    .content{
+        font-family: calibri;
+        font-size: 12;
+    
+    }
